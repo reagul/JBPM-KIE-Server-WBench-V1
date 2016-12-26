@@ -1,0 +1,6 @@
+---
+applications:
+- name: kies
+  command: bin/startup.sh
+  memory: 2048M
+  instances: 1
